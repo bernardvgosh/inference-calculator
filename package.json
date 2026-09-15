@@ -1,0 +1,7 @@
+{
+  "name": "inference-economics-planner",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Local inference infrastructure economics and capacity planning",
+  "scripts": { "test": "node tests/economics.test.cjs && node tests/interface.test.cjs" }
+}
